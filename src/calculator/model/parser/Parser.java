@@ -1,4 +1,7 @@
-package calculator.model;
+package calculator.model.parser;
+
+import calculator.model.converter.Converter;
+import calculator.model.expr.Expr;
 
 public abstract class Parser {
 	

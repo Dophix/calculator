@@ -1,4 +1,4 @@
-package calculator.model;
+package calculator.model.expr;
 
 public class Add extends ExprNary {
 
